@@ -22,5 +22,11 @@ Requirements:
 
 How to install:
 
-1) Copy the "mdid" folder into the following folder: moodle/mod/. 
-2) Load the "Notifications" page on the Moodle home page - this will create database tables used by the activity and you will have an opportunity to configure the student account to access to the MDID activity.
+1)  Copy the "mdid" folder into the following folder: moodle/mod/. 
+2)  Load the "Notifications" page on the Moodle home page - this will create database tables used by the activity and you will have an opportunity to configure the student account to access to the MDID activity.
+
+
+
+Changing the student access account:
+1)  As admin navigate to Site Administration -> Plugins -> Activity modules -> MDID
+
