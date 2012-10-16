@@ -183,7 +183,6 @@ function mdid_get_recent_mod_activity(&$activities, &$index, $timestart, $course
 
 /**
  * Prints single activity item prepared by {@see mdid_get_recent_mod_activity()}
-
  * @return void
  */
 function mdid_print_recent_mod_activity($activity, $courseid, $detail, $modnames, $viewfullnames) {
