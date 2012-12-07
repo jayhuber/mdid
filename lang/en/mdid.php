@@ -30,6 +30,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['mdid:addinstance'] = "Add a new MDID activity";
+$string['mdid:view'] = "View MDID activity";
+$string['mdid:submit'] = "Submit MDID activity";
+
+
 $string['modulename'] = 'MDID';
 $string['modulenameplural'] = 'MDIDs';
 $string['modulename_help'] = 'The MDID activity module enables a teacher to provide access to the Madison Digital Image Database 2 resource.  
