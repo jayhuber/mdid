@@ -41,3 +41,14 @@ How to install:
 Changing the student access account:
 1)  As admin navigate to Site Administration -> Plugins -> Activity modules -> MDID
 
+
+Changelog
+---------
+2013022800:
+	-Added this changelog section
+	-Added grade to the MDID database - as scales seems to be weirded out by it not being in there.  I never consider MDID as a graded activity.
+
+Release notes
+-------------
+v2013022800
+- Release Candidate
